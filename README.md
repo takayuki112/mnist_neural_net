@@ -1,3 +1,4 @@
+# Neural Network implemented from scratch
 Hi. This repository contains a neural network implmented from scratch.
 It is used to classify images from the Fashion MNIST dataset.
 
@@ -13,3 +14,6 @@ The dataset contains another file, called dataset.meta. It too contains a Python
 
 - label_names -- a 10-element list which gives meaningful names to the numeric labels in the labels array described above. For example, label_names[0] == "T-shirt/top", label_names[1] == "Trouser", etc.
 
+
+### Results - 
+- 81% accuracy in the test set
